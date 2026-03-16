@@ -1,0 +1,18 @@
+{
+  "N_WORKERS": 15,
+  "N_ITER": 10000,
+  "ram_total_gb": 62.51,
+  "ram_available_gb": 52.3,
+  "ram_per_worker_gb": 3.66,
+  "runtime_model": "linear",
+  "runtime_alpha2": null,
+  "runtime_alpha": 0.3010828813261474,
+  "runtime_beta": 68.51837667718425,
+  "r2_linear": 0.9993,
+  "r2_quadratic": 1.0,
+  "est_total_serial_hr": 875.1,
+  "est_total_parallel_sim_min": 4803.0,
+  "scheduling_efficiency_pct": 99.4,
+  "benchmarked_on": "2026-03-09 15:53:10",
+  "empirical_z_thresh": 2.2000000000000015
+}

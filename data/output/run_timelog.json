@@ -1,0 +1,1872 @@
+{
+  "runs": [
+    {
+      "run_start": "2026-03-11 13:21:55",
+      "run_end": "2026-03-14 05:06:08",
+      "n_iter": 10000,
+      "n_workers": 15,
+      "diseases_total": 265,
+      "diseases_start": 0,
+      "diseases_end": 265,
+      "wall_seconds": 229453.0,
+      "wall_human": "63.74 hrs (3824 min)",
+      "per_disease": [
+        {
+          "disease": "myeloid leukemia",
+          "gene_size": 689,
+          "elapsed_s": 23105.2,
+          "z_score": 1.1215,
+          "p_value": 0.2616
+        },
+        {
+          "disease": "atrial fibrillation",
+          "gene_size": 714,
+          "elapsed_s": 23645.5,
+          "z_score": 3.4813,
+          "p_value": 0.0005
+        },
+        {
+          "disease": "acute myeloid leukemia",
+          "gene_size": 686,
+          "elapsed_s": 23176.1,
+          "z_score": 1.0832,
+          "p_value": 0.2795
+        },
+        {
+          "disease": "myeloproliferative neoplasm",
+          "gene_size": 702,
+          "elapsed_s": 24216.9,
+          "z_score": 0.9773,
+          "p_value": 0.3306
+        },
+        {
+          "disease": "cardiac rhythm disease",
+          "gene_size": 749,
+          "elapsed_s": 25294.0,
+          "z_score": 3.1403,
+          "p_value": 0.0018
+        },
+        {
+          "disease": "dermatitis",
+          "gene_size": 752,
+          "elapsed_s": 25516.2,
+          "z_score": 2.7271,
+          "p_value": 0.0056
+        },
+        {
+          "disease": "leukemia",
+          "gene_size": 801,
+          "elapsed_s": 27296.3,
+          "z_score": 0.281,
+          "p_value": 0.7782
+        },
+        {
+          "disease": "autoimmune disease",
+          "gene_size": 880,
+          "elapsed_s": 28967.0,
+          "z_score": 0.1095,
+          "p_value": 0.9147
+        },
+        {
+          "disease": "insomnia",
+          "gene_size": 926,
+          "elapsed_s": 29520.4,
+          "z_score": 3.7968,
+          "p_value": 0.0
+        },
+        {
+          "disease": "abdominal obesity-metabolic syndrome",
+          "gene_size": 1144,
+          "elapsed_s": 37221.7,
+          "z_score": 3.9753,
+          "p_value": 0.0
+        },
+        {
+          "disease": "arthritic joint disease",
+          "gene_size": 487,
+          "elapsed_s": 19182.2,
+          "z_score": 3.1108,
+          "p_value": 0.0024
+        },
+        {
+          "disease": "coronary artery disorder",
+          "gene_size": 510,
+          "elapsed_s": 20019.8,
+          "z_score": 3.3456,
+          "p_value": 0.0006
+        },
+        {
+          "disease": "scoliosis",
+          "gene_size": 652,
+          "elapsed_s": 22135.0,
+          "z_score": 3.1144,
+          "p_value": 0.0017
+        },
+        {
+          "disease": "schizophrenia",
+          "gene_size": 599,
+          "elapsed_s": 21600.9,
+          "z_score": 5.561,
+          "p_value": 0.0
+        },
+        {
+          "disease": "core binding factor acute myeloid leukemia",
+          "gene_size": 684,
+          "elapsed_s": 23028.8,
+          "z_score": 1.1788,
+          "p_value": 0.2353
+        },
+        {
+          "disease": "adolescent idiopathic scoliosis",
+          "gene_size": 652,
+          "elapsed_s": 22047.1,
+          "z_score": 3.0948,
+          "p_value": 0.0021
+        },
+        {
+          "disease": "mood disorder",
+          "gene_size": 480,
+          "elapsed_s": 18953.0,
+          "z_score": 3.3686,
+          "p_value": 0.0007
+        },
+        {
+          "disease": "inflammatory bowel disease",
+          "gene_size": 459,
+          "elapsed_s": 17817.1,
+          "z_score": -0.0144,
+          "p_value": 0.9877
+        },
+        {
+          "disease": "prostate cancer",
+          "gene_size": 478,
+          "elapsed_s": 18847.4,
+          "z_score": 3.9828,
+          "p_value": 0.0001
+        },
+        {
+          "disease": "type 2 diabetes mellitus",
+          "gene_size": 1526,
+          "elapsed_s": 48985.7,
+          "z_score": 3.8056,
+          "p_value": 0.0004
+        },
+        {
+          "disease": "vascular disorder",
+          "gene_size": 1563,
+          "elapsed_s": 53167.5,
+          "z_score": 1.5995,
+          "p_value": 0.1065
+        },
+        {
+          "disease": "diabetes mellitus",
+          "gene_size": 1664,
+          "elapsed_s": 54769.0,
+          "z_score": 4.0004,
+          "p_value": 0.0001
+        },
+        {
+          "disease": "refractive error",
+          "gene_size": 444,
+          "elapsed_s": 18078.4,
+          "z_score": 4.1297,
+          "p_value": 0.0002
+        },
+        {
+          "disease": "lung disorder",
+          "gene_size": 350,
+          "elapsed_s": 15417.5,
+          "z_score": 2.0072,
+          "p_value": 0.0425
+        },
+        {
+          "disease": "depressive disorder",
+          "gene_size": 381,
+          "elapsed_s": 16040.0,
+          "z_score": 2.7628,
+          "p_value": 0.0065
+        },
+        {
+          "disease": "atopic eczema",
+          "gene_size": 347,
+          "elapsed_s": 15991.5,
+          "z_score": 4.988,
+          "p_value": 0.0
+        },
+        {
+          "disease": "gout",
+          "gene_size": 384,
+          "elapsed_s": 16587.3,
+          "z_score": 3.1893,
+          "p_value": 0.0009
+        },
+        {
+          "disease": "breast cancer",
+          "gene_size": 343,
+          "elapsed_s": 15208.1,
+          "z_score": 2.8128,
+          "p_value": 0.0041
+        },
+        {
+          "disease": "asthma",
+          "gene_size": 439,
+          "elapsed_s": 17978.0,
+          "z_score": 2.243,
+          "p_value": 0.0243
+        },
+        {
+          "disease": "allergic disease",
+          "gene_size": 426,
+          "elapsed_s": 17008.4,
+          "z_score": 4.1868,
+          "p_value": 0.0001
+        },
+        {
+          "disease": "kidney disorder",
+          "gene_size": 439,
+          "elapsed_s": 17847.3,
+          "z_score": 1.1253,
+          "p_value": 0.2588
+        },
+        {
+          "disease": "neuromuscular disease",
+          "gene_size": 339,
+          "elapsed_s": 15705.3,
+          "z_score": 5.4398,
+          "p_value": 0.0
+        },
+        {
+          "disease": "neurodevelopmental disorder",
+          "gene_size": 333,
+          "elapsed_s": 15106.8,
+          "z_score": 6.1696,
+          "p_value": 0.0
+        },
+        {
+          "disease": "skeletal dysplasia",
+          "gene_size": 329,
+          "elapsed_s": 15898.8,
+          "z_score": 4.7641,
+          "p_value": 0.0
+        },
+        {
+          "disease": "psoriasis",
+          "gene_size": 321,
+          "elapsed_s": 14940.4,
+          "z_score": 3.8582,
+          "p_value": 0.0
+        },
+        {
+          "disease": "hypertensive disorder",
+          "gene_size": 318,
+          "elapsed_s": 15318.0,
+          "z_score": 3.8181,
+          "p_value": 0.0
+        },
+        {
+          "disease": "cardiovascular disorder",
+          "gene_size": 288,
+          "elapsed_s": 14106.3,
+          "z_score": 3.7599,
+          "p_value": 0.0004
+        },
+        {
+          "disease": "colorectal cancer",
+          "gene_size": 258,
+          "elapsed_s": 13397.0,
+          "z_score": 1.8156,
+          "p_value": 0.0719
+        },
+        {
+          "disease": "systemic lupus erythematosus",
+          "gene_size": 276,
+          "elapsed_s": 13883.5,
+          "z_score": 3.2509,
+          "p_value": 0.0007
+        },
+        {
+          "disease": "rheumatoid arthritis",
+          "gene_size": 288,
+          "elapsed_s": 14254.7,
+          "z_score": 2.7212,
+          "p_value": 0.0071
+        },
+        {
+          "disease": "multiple sclerosis",
+          "gene_size": 232,
+          "elapsed_s": 13512.4,
+          "z_score": 3.1732,
+          "p_value": 0.0019
+        },
+        {
+          "disease": "dementia",
+          "gene_size": 280,
+          "elapsed_s": 14533.7,
+          "z_score": -0.9629,
+          "p_value": 0.3322
+        },
+        {
+          "disease": "Crohn disease",
+          "gene_size": 259,
+          "elapsed_s": 14131.5,
+          "z_score": 1.9675,
+          "p_value": 0.0491
+        },
+        {
+          "disease": "hypothyroidism",
+          "gene_size": 279,
+          "elapsed_s": 14425.4,
+          "z_score": 3.4872,
+          "p_value": 0.0004
+        },
+        {
+          "disease": "major depressive disorder",
+          "gene_size": 227,
+          "elapsed_s": 13543.3,
+          "z_score": 2.0118,
+          "p_value": 0.045
+        },
+        {
+          "disease": "venous thromboembolism",
+          "gene_size": 212,
+          "elapsed_s": 13423.4,
+          "z_score": 1.892,
+          "p_value": 0.0582
+        },
+        {
+          "disease": "heart failure",
+          "gene_size": 205,
+          "elapsed_s": 12659.7,
+          "z_score": 3.7805,
+          "p_value": 0.0
+        },
+        {
+          "disease": "lymphoma",
+          "gene_size": 205,
+          "elapsed_s": 13340.6,
+          "z_score": 2.0113,
+          "p_value": 0.0432
+        },
+        {
+          "disease": "cancer",
+          "gene_size": 2230,
+          "elapsed_s": 82778.2,
+          "z_score": 0.7289,
+          "p_value": 0.4681
+        },
+        {
+          "disease": "hearing loss disorder",
+          "gene_size": 202,
+          "elapsed_s": 13020.9,
+          "z_score": 4.8099,
+          "p_value": 0.0
+        },
+        {
+          "disease": "osteoarthritis",
+          "gene_size": 201,
+          "elapsed_s": 12522.3,
+          "z_score": 1.7129,
+          "p_value": 0.0866
+        },
+        {
+          "disease": "peripheral neuropathy",
+          "gene_size": 201,
+          "elapsed_s": 12539.6,
+          "z_score": 4.6188,
+          "p_value": 0.0
+        },
+        {
+          "disease": "gastroenteritis",
+          "gene_size": 190,
+          "elapsed_s": 12341.3,
+          "z_score": 1.3222,
+          "p_value": 0.1858
+        },
+        {
+          "disease": "myocardial infarction",
+          "gene_size": 200,
+          "elapsed_s": 12488.3,
+          "z_score": 1.0526,
+          "p_value": 0.2866
+        },
+        {
+          "disease": "adenocarcinoma",
+          "gene_size": 188,
+          "elapsed_s": 12594.1,
+          "z_score": 1.2271,
+          "p_value": 0.2182
+        },
+        {
+          "disease": "anxiety disorder",
+          "gene_size": 181,
+          "elapsed_s": 12552.7,
+          "z_score": 2.5803,
+          "p_value": 0.0096
+        },
+        {
+          "disease": "ulcerative colitis",
+          "gene_size": 181,
+          "elapsed_s": 12664.7,
+          "z_score": 1.2572,
+          "p_value": 0.2087
+        },
+        {
+          "disease": "retinal degeneration",
+          "gene_size": 183,
+          "elapsed_s": 12732.2,
+          "z_score": 7.12,
+          "p_value": 0.0
+        },
+        {
+          "disease": "epilepsy",
+          "gene_size": 178,
+          "elapsed_s": 12655.7,
+          "z_score": 2.8925,
+          "p_value": 0.0042
+        },
+        {
+          "disease": "restless legs syndrome",
+          "gene_size": 177,
+          "elapsed_s": 12813.4,
+          "z_score": 1.689,
+          "p_value": 0.09
+        },
+        {
+          "disease": "inherited retinal dystrophy",
+          "gene_size": 172,
+          "elapsed_s": 12201.6,
+          "z_score": 7.0832,
+          "p_value": 0.0
+        },
+        {
+          "disease": "cerebrovascular disorder",
+          "gene_size": 169,
+          "elapsed_s": 12669.6,
+          "z_score": 0.4906,
+          "p_value": 0.6204
+        },
+        {
+          "disease": "basal cell carcinoma",
+          "gene_size": 169,
+          "elapsed_s": 13006.3,
+          "z_score": 3.1055,
+          "p_value": 0.0012
+        },
+        {
+          "disease": "Alzheimer disease",
+          "gene_size": 168,
+          "elapsed_s": 12374.9,
+          "z_score": -0.4853,
+          "p_value": 0.6334
+        },
+        {
+          "disease": "Parkinson disease",
+          "gene_size": 160,
+          "elapsed_s": 11715.9,
+          "z_score": 1.5925,
+          "p_value": 0.1152
+        },
+        {
+          "disease": "lung cancer",
+          "gene_size": 160,
+          "elapsed_s": 11692.6,
+          "z_score": 2.0884,
+          "p_value": 0.0376
+        },
+        {
+          "disease": "type 1 diabetes mellitus",
+          "gene_size": 154,
+          "elapsed_s": 11675.0,
+          "z_score": 2.069,
+          "p_value": 0.0382
+        },
+        {
+          "disease": "migraine disorder",
+          "gene_size": 152,
+          "elapsed_s": 11586.1,
+          "z_score": 1.9104,
+          "p_value": 0.0558
+        },
+        {
+          "disease": "brain disorder",
+          "gene_size": 2597,
+          "elapsed_s": 100565.2,
+          "z_score": 2.5526,
+          "p_value": 0.0115
+        },
+        {
+          "disease": "myopathy",
+          "gene_size": 149,
+          "elapsed_s": 11938.7,
+          "z_score": 5.0576,
+          "p_value": 0.0
+        },
+        {
+          "disease": "cardiomyopathy",
+          "gene_size": 145,
+          "elapsed_s": 11927.7,
+          "z_score": 3.7682,
+          "p_value": 0.0
+        },
+        {
+          "disease": "aortic aneurysm",
+          "gene_size": 143,
+          "elapsed_s": 11946.6,
+          "z_score": 3.3088,
+          "p_value": 0.0012
+        },
+        {
+          "disease": "intellectual disability",
+          "gene_size": 141,
+          "elapsed_s": 11954.6,
+          "z_score": 4.7073,
+          "p_value": 0.0
+        },
+        {
+          "disease": "chronic obstructive pulmonary disease",
+          "gene_size": 141,
+          "elapsed_s": 11966.3,
+          "z_score": 1.9308,
+          "p_value": 0.0536
+        },
+        {
+          "disease": "abdominal aortic aneurysm",
+          "gene_size": 134,
+          "elapsed_s": 11794.3,
+          "z_score": 3.1179,
+          "p_value": 0.0018
+        },
+        {
+          "disease": "osteochondrodysplasia",
+          "gene_size": 131,
+          "elapsed_s": 11382.1,
+          "z_score": 6.8512,
+          "p_value": 0.0
+        },
+        {
+          "disease": "skin cancer",
+          "gene_size": 130,
+          "elapsed_s": 11940.1,
+          "z_score": 2.7422,
+          "p_value": 0.006
+        },
+        {
+          "disease": "immunodeficiency disease",
+          "gene_size": 128,
+          "elapsed_s": 11572.7,
+          "z_score": 6.5043,
+          "p_value": 0.0
+        },
+        {
+          "disease": "allergic asthma",
+          "gene_size": 130,
+          "elapsed_s": 11825.1,
+          "z_score": 1.2809,
+          "p_value": 0.2003
+        },
+        {
+          "disease": "inherited lipid metabolism disorder",
+          "gene_size": 121,
+          "elapsed_s": 11080.8,
+          "z_score": 7.2962,
+          "p_value": 0.0
+        },
+        {
+          "disease": "atactic disorder",
+          "gene_size": 114,
+          "elapsed_s": 10867.0,
+          "z_score": 6.0571,
+          "p_value": 0.0
+        },
+        {
+          "disease": "autoimmune thyroid disease",
+          "gene_size": 116,
+          "elapsed_s": 10955.3,
+          "z_score": 2.1219,
+          "p_value": 0.0323
+        },
+        {
+          "disease": "post-traumatic stress disorder",
+          "gene_size": 115,
+          "elapsed_s": 11063.9,
+          "z_score": 2.645,
+          "p_value": 0.0077
+        },
+        {
+          "disease": "kidney cancer",
+          "gene_size": 112,
+          "elapsed_s": 11197.1,
+          "z_score": 1.511,
+          "p_value": 0.1269
+        },
+        {
+          "disease": "hypogonadism",
+          "gene_size": 107,
+          "elapsed_s": 10744.4,
+          "z_score": 4.2423,
+          "p_value": 0.0
+        },
+        {
+          "disease": "bipolar disorder",
+          "gene_size": 111,
+          "elapsed_s": 11242.0,
+          "z_score": 1.4637,
+          "p_value": 0.1387
+        },
+        {
+          "disease": "anemia",
+          "gene_size": 108,
+          "elapsed_s": 11245.4,
+          "z_score": 4.4918,
+          "p_value": 0.0
+        },
+        {
+          "disease": "glaucoma",
+          "gene_size": 108,
+          "elapsed_s": 11280.9,
+          "z_score": 3.259,
+          "p_value": 0.001
+        },
+        {
+          "disease": "substance dependence",
+          "gene_size": 104,
+          "elapsed_s": 11203.7,
+          "z_score": 3.2786,
+          "p_value": 0.001
+        },
+        {
+          "disease": "varicose disease",
+          "gene_size": 104,
+          "elapsed_s": 11258.6,
+          "z_score": 2.3069,
+          "p_value": 0.0218
+        },
+        {
+          "disease": "skin carcinoma",
+          "gene_size": 101,
+          "elapsed_s": 10835.8,
+          "z_score": 2.507,
+          "p_value": 0.0116
+        },
+        {
+          "disease": "non-Hodgkin lymphoma",
+          "gene_size": 101,
+          "elapsed_s": 11409.7,
+          "z_score": 1.2153,
+          "p_value": 0.2237
+        },
+        {
+          "disease": "cirrhosis of liver",
+          "gene_size": 98,
+          "elapsed_s": 11129.0,
+          "z_score": 2.2362,
+          "p_value": 0.0248
+        },
+        {
+          "disease": "squamous cell carcinoma",
+          "gene_size": 97,
+          "elapsed_s": 11197.2,
+          "z_score": 3.5058,
+          "p_value": 0.0003
+        },
+        {
+          "disease": "cerebellar ataxia",
+          "gene_size": 95,
+          "elapsed_s": 10685.6,
+          "z_score": 5.0577,
+          "p_value": 0.0
+        },
+        {
+          "disease": "aortic valve stenosis",
+          "gene_size": 93,
+          "elapsed_s": 10529.2,
+          "z_score": 4.4911,
+          "p_value": 0.0
+        },
+        {
+          "disease": "B-cell non-Hodgkin lymphoma",
+          "gene_size": 91,
+          "elapsed_s": 10622.7,
+          "z_score": 1.8023,
+          "p_value": 0.0735
+        },
+        {
+          "disease": "autoinflammatory syndrome",
+          "gene_size": 89,
+          "elapsed_s": 10594.8,
+          "z_score": 3.2258,
+          "p_value": 0.0012
+        },
+        {
+          "disease": "nicotine dependence",
+          "gene_size": 87,
+          "elapsed_s": 10754.1,
+          "z_score": 2.5629,
+          "p_value": 0.0089
+        },
+        {
+          "disease": "renal carcinoma",
+          "gene_size": 86,
+          "elapsed_s": 10384.0,
+          "z_score": 0.781,
+          "p_value": 0.4337
+        },
+        {
+          "disease": "vasculitis",
+          "gene_size": 82,
+          "elapsed_s": 10409.6,
+          "z_score": 0.2341,
+          "p_value": 0.8103
+        },
+        {
+          "disease": "renal cell carcinoma",
+          "gene_size": 85,
+          "elapsed_s": 10811.3,
+          "z_score": 0.7111,
+          "p_value": 0.4795
+        },
+        {
+          "disease": "primary biliary cholangitis",
+          "gene_size": 84,
+          "elapsed_s": 10908.1,
+          "z_score": 2.471,
+          "p_value": 0.0147
+        },
+        {
+          "disease": "retinitis pigmentosa",
+          "gene_size": 82,
+          "elapsed_s": 10864.1,
+          "z_score": 10.571,
+          "p_value": 0.0
+        },
+        {
+          "disease": "lymphoid leukemia",
+          "gene_size": 80,
+          "elapsed_s": 10732.0,
+          "z_score": 1.4781,
+          "p_value": 0.1407
+        },
+        {
+          "disease": "myopia",
+          "gene_size": 78,
+          "elapsed_s": 10461.4,
+          "z_score": 4.5957,
+          "p_value": 0.0
+        },
+        {
+          "disease": "hypertrophic cardiomyopathy",
+          "gene_size": 78,
+          "elapsed_s": 10989.8,
+          "z_score": 2.1253,
+          "p_value": 0.0349
+        },
+        {
+          "disease": "dental caries",
+          "gene_size": 78,
+          "elapsed_s": 10740.1,
+          "z_score": 1.2191,
+          "p_value": 0.2264
+        },
+        {
+          "disease": "IgA glomerulonephritis",
+          "gene_size": 76,
+          "elapsed_s": 10828.5,
+          "z_score": 0.0479,
+          "p_value": 0.9618
+        },
+        {
+          "disease": "retinal arterial tortuosity",
+          "gene_size": 74,
+          "elapsed_s": 10276.3,
+          "z_score": 4.838,
+          "p_value": 0.0
+        },
+        {
+          "disease": "congenital disorder of glycosylation",
+          "gene_size": 74,
+          "elapsed_s": 10231.1,
+          "z_score": 11.4445,
+          "p_value": 0.0
+        },
+        {
+          "disease": "chronic kidney disease",
+          "gene_size": 73,
+          "elapsed_s": 10239.0,
+          "z_score": 2.8826,
+          "p_value": 0.0036
+        },
+        {
+          "disease": "leukodystrophy",
+          "gene_size": 72,
+          "elapsed_s": 10238.9,
+          "z_score": 5.7812,
+          "p_value": 0.0
+        },
+        {
+          "disease": "vitiligo",
+          "gene_size": 69,
+          "elapsed_s": 10247.3,
+          "z_score": 3.1801,
+          "p_value": 0.002
+        },
+        {
+          "disease": "disorder of pharynx",
+          "gene_size": 70,
+          "elapsed_s": 10440.2,
+          "z_score": 1.9846,
+          "p_value": 0.0456
+        },
+        {
+          "disease": "cholelithiasis",
+          "gene_size": 69,
+          "elapsed_s": 9944.5,
+          "z_score": 5.853,
+          "p_value": 0.0
+        },
+        {
+          "disease": "hyperthyroidism",
+          "gene_size": 68,
+          "elapsed_s": 10505.6,
+          "z_score": 1.9687,
+          "p_value": 0.051
+        },
+        {
+          "disease": "Hodgkins lymphoma",
+          "gene_size": 64,
+          "elapsed_s": 10464.8,
+          "z_score": -1.8198,
+          "p_value": 0.0679
+        },
+        {
+          "disease": "non-small cell lung carcinoma",
+          "gene_size": 63,
+          "elapsed_s": 10480.5,
+          "z_score": 1.14,
+          "p_value": 0.2538
+        },
+        {
+          "disease": "pneumonia",
+          "gene_size": 63,
+          "elapsed_s": 10499.6,
+          "z_score": 2.2048,
+          "p_value": 0.0264
+        },
+        {
+          "disease": "osteogenesis imperfecta",
+          "gene_size": 63,
+          "elapsed_s": 10235.0,
+          "z_score": 5.8344,
+          "p_value": 0.0
+        },
+        {
+          "disease": "carpal tunnel syndrome",
+          "gene_size": 62,
+          "elapsed_s": 10505.3,
+          "z_score": 1.5055,
+          "p_value": 0.1294
+        },
+        {
+          "disease": "B-cell chronic lymphocytic leukemia",
+          "gene_size": 62,
+          "elapsed_s": 10729.9,
+          "z_score": 1.4923,
+          "p_value": 0.1332
+        },
+        {
+          "disease": "allergic rhinitis",
+          "gene_size": 62,
+          "elapsed_s": 10553.9,
+          "z_score": 0.6246,
+          "p_value": 0.535
+        },
+        {
+          "disease": "autosomal dominant cerebellar ataxia",
+          "gene_size": 60,
+          "elapsed_s": 10029.2,
+          "z_score": 4.7825,
+          "p_value": 0.0
+        },
+        {
+          "disease": "lung adenocarcinoma",
+          "gene_size": 59,
+          "elapsed_s": 10054.3,
+          "z_score": 1.4629,
+          "p_value": 0.1468
+        },
+        {
+          "disease": "celiac disease",
+          "gene_size": 59,
+          "elapsed_s": 10030.3,
+          "z_score": 3.1333,
+          "p_value": 0.0023
+        },
+        {
+          "disease": "melanoma",
+          "gene_size": 59,
+          "elapsed_s": 10190.9,
+          "z_score": 5.5588,
+          "p_value": 0.0
+        },
+        {
+          "disease": "macular degeneration",
+          "gene_size": 57,
+          "elapsed_s": 9763.2,
+          "z_score": 2.3045,
+          "p_value": 0.0202
+        },
+        {
+          "disease": "male infertility",
+          "gene_size": 59,
+          "elapsed_s": 9999.9,
+          "z_score": 10.2239,
+          "p_value": 0.0
+        },
+        {
+          "disease": "presbycusis",
+          "gene_size": 58,
+          "elapsed_s": 10285.6,
+          "z_score": 0.119,
+          "p_value": 0.9044
+        },
+        {
+          "disease": "congenital heart malformation",
+          "gene_size": 57,
+          "elapsed_s": 10052.3,
+          "z_score": 0.7763,
+          "p_value": 0.4324
+        },
+        {
+          "disease": "amyotrophic lateral sclerosis",
+          "gene_size": 56,
+          "elapsed_s": 10526.4,
+          "z_score": 1.3961,
+          "p_value": 0.1581
+        },
+        {
+          "disease": "nonpapillary renal cell carcinoma",
+          "gene_size": 55,
+          "elapsed_s": 9925.4,
+          "z_score": 0.9444,
+          "p_value": 0.3444
+        },
+        {
+          "disease": "spermatogenic failure",
+          "gene_size": 56,
+          "elapsed_s": 10422.4,
+          "z_score": 10.2562,
+          "p_value": 0.0
+        },
+        {
+          "disease": "neoplasm of testis",
+          "gene_size": 55,
+          "elapsed_s": 10163.1,
+          "z_score": 5.3454,
+          "p_value": 0.0
+        },
+        {
+          "disease": "uterine cancer",
+          "gene_size": 54,
+          "elapsed_s": 10378.5,
+          "z_score": 0.6331,
+          "p_value": 0.5271
+        },
+        {
+          "disease": "Charcot-Marie-Tooth disease",
+          "gene_size": 54,
+          "elapsed_s": 10472.6,
+          "z_score": 6.2743,
+          "p_value": 0.0
+        },
+        {
+          "disease": "gastroesophageal reflux disease",
+          "gene_size": 54,
+          "elapsed_s": 10607.0,
+          "z_score": 1.1126,
+          "p_value": 0.268
+        },
+        {
+          "disease": "testicular germ cell tumor",
+          "gene_size": 53,
+          "elapsed_s": 9955.7,
+          "z_score": 5.0551,
+          "p_value": 0.0
+        },
+        {
+          "disease": "obesity disorder",
+          "gene_size": 53,
+          "elapsed_s": 9883.2,
+          "z_score": 6.5275,
+          "p_value": 0.0
+        },
+        {
+          "disease": "interstitial lung disease",
+          "gene_size": 53,
+          "elapsed_s": 9981.1,
+          "z_score": 2.5734,
+          "p_value": 0.0101
+        },
+        {
+          "disease": "glioma",
+          "gene_size": 53,
+          "elapsed_s": 9957.2,
+          "z_score": 0.9541,
+          "p_value": 0.3428
+        },
+        {
+          "disease": "ischemic stroke",
+          "gene_size": 53,
+          "elapsed_s": 9706.0,
+          "z_score": 1.9607,
+          "p_value": 0.0494
+        },
+        {
+          "disease": "goiter",
+          "gene_size": 52,
+          "elapsed_s": 9961.3,
+          "z_score": 0.5015,
+          "p_value": 0.6149
+        },
+        {
+          "disease": "cleft palate",
+          "gene_size": 52,
+          "elapsed_s": 10341.1,
+          "z_score": 1.5545,
+          "p_value": 0.1165
+        },
+        {
+          "disease": "urolithiasis",
+          "gene_size": 52,
+          "elapsed_s": 9940.5,
+          "z_score": 1.731,
+          "p_value": 0.0836
+        },
+        {
+          "disease": "attention deficit-hyperactivity disorder",
+          "gene_size": 51,
+          "elapsed_s": 10170.3,
+          "z_score": 4.5076,
+          "p_value": 0.0
+        },
+        {
+          "disease": "aplastic anemia",
+          "gene_size": 51,
+          "elapsed_s": 10212.5,
+          "z_score": 6.5931,
+          "p_value": 0.0
+        },
+        {
+          "disease": "acne",
+          "gene_size": 50,
+          "elapsed_s": 10442.5,
+          "z_score": 2.6924,
+          "p_value": 0.0086
+        },
+        {
+          "disease": "bipolar I disorder",
+          "gene_size": 48,
+          "elapsed_s": 9978.8,
+          "z_score": -0.7552,
+          "p_value": 0.4503
+        },
+        {
+          "disease": "ectodermal dysplasia syndrome",
+          "gene_size": 48,
+          "elapsed_s": 10241.1,
+          "z_score": 3.0046,
+          "p_value": 0.0024
+        },
+        {
+          "disease": "sarcoidosis",
+          "gene_size": 48,
+          "elapsed_s": 10394.5,
+          "z_score": 2.0091,
+          "p_value": 0.0419
+        },
+        {
+          "disease": "systemic sclerosis",
+          "gene_size": 47,
+          "elapsed_s": 10440.5,
+          "z_score": 1.1153,
+          "p_value": 0.2617
+        },
+        {
+          "disease": "squamous cell lung carcinoma",
+          "gene_size": 46,
+          "elapsed_s": 9853.3,
+          "z_score": 4.5996,
+          "p_value": 0.0
+        },
+        {
+          "disease": "anxiety",
+          "gene_size": 46,
+          "elapsed_s": 9794.0,
+          "z_score": 0.0839,
+          "p_value": 0.9303
+        },
+        {
+          "disease": "peripheral vascular disease",
+          "gene_size": 45,
+          "elapsed_s": 9569.1,
+          "z_score": 1.1774,
+          "p_value": 0.2403
+        },
+        {
+          "disease": "endometriosis",
+          "gene_size": 45,
+          "elapsed_s": 9843.9,
+          "z_score": 1.4361,
+          "p_value": 0.1532
+        },
+        {
+          "disease": "brain aneurysm",
+          "gene_size": 45,
+          "elapsed_s": 9897.6,
+          "z_score": 3.4069,
+          "p_value": 0.0015
+        },
+        {
+          "disease": "peptic ulcer disease",
+          "gene_size": 44,
+          "elapsed_s": 9725.9,
+          "z_score": 1.2338,
+          "p_value": 0.217
+        },
+        {
+          "disease": "combined immunodeficiency",
+          "gene_size": 44,
+          "elapsed_s": 9779.6,
+          "z_score": 5.3954,
+          "p_value": 0.0
+        },
+        {
+          "disease": "Graves disease",
+          "gene_size": 44,
+          "elapsed_s": 10021.9,
+          "z_score": 0.8969,
+          "p_value": 0.3717
+        },
+        {
+          "disease": "malignant pancreatic neoplasm",
+          "gene_size": 43,
+          "elapsed_s": 10101.8,
+          "z_score": 1.4385,
+          "p_value": 0.1534
+        },
+        {
+          "disease": "isolated cleft palate",
+          "gene_size": 42,
+          "elapsed_s": 9755.8,
+          "z_score": 1.6094,
+          "p_value": 0.1064
+        },
+        {
+          "disease": "hemorrhagic disease",
+          "gene_size": 42,
+          "elapsed_s": 10127.4,
+          "z_score": 4.2503,
+          "p_value": 0.0
+        },
+        {
+          "disease": "Moyamoya disease",
+          "gene_size": 41,
+          "elapsed_s": 9844.6,
+          "z_score": -0.7259,
+          "p_value": 0.4655
+        },
+        {
+          "disease": "muscular dystrophy",
+          "gene_size": 41,
+          "elapsed_s": 10103.9,
+          "z_score": 6.7008,
+          "p_value": 0.0
+        },
+        {
+          "disease": "gastric cancer",
+          "gene_size": 40,
+          "elapsed_s": 10255.0,
+          "z_score": 0.4861,
+          "p_value": 0.6227
+        },
+        {
+          "disease": "congenital heart disease",
+          "gene_size": 38,
+          "elapsed_s": 9433.4,
+          "z_score": 5.9102,
+          "p_value": 0.0
+        },
+        {
+          "disease": "dyslexia",
+          "gene_size": 40,
+          "elapsed_s": 9734.3,
+          "z_score": 2.5852,
+          "p_value": 0.0096
+        },
+        {
+          "disease": "age-related macular degeneration",
+          "gene_size": 40,
+          "elapsed_s": 10395.2,
+          "z_score": 1.9726,
+          "p_value": 0.0476
+        },
+        {
+          "disease": "plasma cell myeloma",
+          "gene_size": 40,
+          "elapsed_s": 9828.9,
+          "z_score": 2.4104,
+          "p_value": 0.0145
+        },
+        {
+          "disease": "Takayasu arteritis",
+          "gene_size": 38,
+          "elapsed_s": 9754.7,
+          "z_score": 1.6521,
+          "p_value": 0.0994
+        },
+        {
+          "disease": "blood platelet disease",
+          "gene_size": 37,
+          "elapsed_s": 9725.7,
+          "z_score": 1.8425,
+          "p_value": 0.0631
+        },
+        {
+          "disease": "esophageal cancer",
+          "gene_size": 37,
+          "elapsed_s": 9651.4,
+          "z_score": 1.6117,
+          "p_value": 0.1067
+        },
+        {
+          "disease": "mitochondrial complex I deficiency",
+          "gene_size": 37,
+          "elapsed_s": 9607.7,
+          "z_score": 11.4807,
+          "p_value": 0.0
+        },
+        {
+          "disease": "alcohol abuse",
+          "gene_size": 36,
+          "elapsed_s": 9914.1,
+          "z_score": 2.4974,
+          "p_value": 0.0136
+        },
+        {
+          "disease": "idiopathic pulmonary fibrosis",
+          "gene_size": 36,
+          "elapsed_s": 9673.8,
+          "z_score": 3.7397,
+          "p_value": 0.0002
+        },
+        {
+          "disease": "osteoporosis",
+          "gene_size": 36,
+          "elapsed_s": 9948.2,
+          "z_score": 2.4316,
+          "p_value": 0.0142
+        },
+        {
+          "disease": "vitamin D deficiency",
+          "gene_size": 36,
+          "elapsed_s": 9849.1,
+          "z_score": 3.8636,
+          "p_value": 0.0001
+        },
+        {
+          "disease": "alopecia",
+          "gene_size": 35,
+          "elapsed_s": 9764.3,
+          "z_score": 1.3034,
+          "p_value": 0.1907
+        },
+        {
+          "disease": "tuberculosis",
+          "gene_size": 34,
+          "elapsed_s": 10025.0,
+          "z_score": 0.5264,
+          "p_value": 0.6081
+        },
+        {
+          "disease": "leprosy",
+          "gene_size": 33,
+          "elapsed_s": 9356.6,
+          "z_score": 0.4482,
+          "p_value": 0.6551
+        },
+        {
+          "disease": "keratosis",
+          "gene_size": 33,
+          "elapsed_s": 9631.0,
+          "z_score": 4.2048,
+          "p_value": 0.0
+        },
+        {
+          "disease": "polyp of large intestine",
+          "gene_size": 33,
+          "elapsed_s": 9636.6,
+          "z_score": 3.4516,
+          "p_value": 0.0005
+        },
+        {
+          "disease": "microphthalmia",
+          "gene_size": 34,
+          "elapsed_s": 10108.9,
+          "z_score": 6.3215,
+          "p_value": 0.0
+        },
+        {
+          "disease": "sleep apnea syndrome",
+          "gene_size": 32,
+          "elapsed_s": 9640.5,
+          "z_score": -0.5448,
+          "p_value": 0.5881
+        },
+        {
+          "disease": "childhood onset asthma",
+          "gene_size": 32,
+          "elapsed_s": 9649.7,
+          "z_score": 2.936,
+          "p_value": 0.0025
+        },
+        {
+          "disease": "keratoconus",
+          "gene_size": 32,
+          "elapsed_s": 9512.8,
+          "z_score": 0.6198,
+          "p_value": 0.533
+        },
+        {
+          "disease": "psoriatic arthritis",
+          "gene_size": 33,
+          "elapsed_s": 10208.6,
+          "z_score": 2.3176,
+          "p_value": 0.0201
+        },
+        {
+          "disease": "polyp of colon",
+          "gene_size": 32,
+          "elapsed_s": 9622.4,
+          "z_score": 3.5077,
+          "p_value": 0.0003
+        },
+        {
+          "disease": "hepatitis",
+          "gene_size": 31,
+          "elapsed_s": 9827.1,
+          "z_score": 0.4681,
+          "p_value": 0.6464
+        },
+        {
+          "disease": "skin squamous cell carcinoma",
+          "gene_size": 31,
+          "elapsed_s": 9576.6,
+          "z_score": 1.4969,
+          "p_value": 0.1349
+        },
+        {
+          "disease": "bone fracture",
+          "gene_size": 31,
+          "elapsed_s": 9739.2,
+          "z_score": 2.9472,
+          "p_value": 0.0024
+        },
+        {
+          "disease": "cervical cancer",
+          "gene_size": 31,
+          "elapsed_s": 9917.7,
+          "z_score": 1.4447,
+          "p_value": 0.1499
+        },
+        {
+          "disease": "carcinoma of liver and intrahepatic biliary tract",
+          "gene_size": 31,
+          "elapsed_s": 9761.6,
+          "z_score": -1.1989,
+          "p_value": 0.229
+        },
+        {
+          "disease": "generalized epilepsy",
+          "gene_size": 31,
+          "elapsed_s": 9375.4,
+          "z_score": 2.8284,
+          "p_value": 0.0033
+        },
+        {
+          "disease": "hereditary spastic paraplegia",
+          "gene_size": 31,
+          "elapsed_s": 9929.8,
+          "z_score": 5.7199,
+          "p_value": 0.0
+        },
+        {
+          "disease": "palmoplantar keratosis",
+          "gene_size": 30,
+          "elapsed_s": 9607.9,
+          "z_score": 4.8492,
+          "p_value": 0.0
+        },
+        {
+          "disease": "ovarian cancer",
+          "gene_size": 30,
+          "elapsed_s": 9531.9,
+          "z_score": -0.959,
+          "p_value": 0.3407
+        },
+        {
+          "disease": "fatty liver disease",
+          "gene_size": 29,
+          "elapsed_s": 9488.7,
+          "z_score": 2.4749,
+          "p_value": 0.0141
+        },
+        {
+          "disease": "severe combined immunodeficiency",
+          "gene_size": 30,
+          "elapsed_s": 9632.0,
+          "z_score": 4.2982,
+          "p_value": 0.0001
+        },
+        {
+          "disease": "duodenal ulcer",
+          "gene_size": 29,
+          "elapsed_s": 9496.2,
+          "z_score": 1.7299,
+          "p_value": 0.0785
+        },
+        {
+          "disease": "ichthyosis",
+          "gene_size": 30,
+          "elapsed_s": 9743.6,
+          "z_score": 7.7216,
+          "p_value": 0.0
+        },
+        {
+          "disease": "nephrolithiasis",
+          "gene_size": 30,
+          "elapsed_s": 10055.3,
+          "z_score": 2.6569,
+          "p_value": 0.0077
+        },
+        {
+          "disease": "hepatocellular carcinoma",
+          "gene_size": 29,
+          "elapsed_s": 9496.4,
+          "z_score": -1.0344,
+          "p_value": 0.3062
+        },
+        {
+          "disease": "hemolytic anemia",
+          "gene_size": 28,
+          "elapsed_s": 9898.0,
+          "z_score": 3.2007,
+          "p_value": 0.0012
+        },
+        {
+          "disease": "obstructive sleep apnea syndrome",
+          "gene_size": 28,
+          "elapsed_s": 9515.3,
+          "z_score": -0.6761,
+          "p_value": 0.5014
+        },
+        {
+          "disease": "metabolic dysfunction-associated steatotic liver disease",
+          "gene_size": 28,
+          "elapsed_s": 9515.5,
+          "z_score": 2.1048,
+          "p_value": 0.0355
+        },
+        {
+          "disease": "Brugada syndrome",
+          "gene_size": 28,
+          "elapsed_s": 9838.4,
+          "z_score": 4.6143,
+          "p_value": 0.0001
+        },
+        {
+          "disease": "pelvic organ prolapse",
+          "gene_size": 27,
+          "elapsed_s": 9612.9,
+          "z_score": 1.5251,
+          "p_value": 0.1274
+        },
+        {
+          "disease": "thrombocytopenia",
+          "gene_size": 27,
+          "elapsed_s": 9285.5,
+          "z_score": 1.7863,
+          "p_value": 0.0762
+        },
+        {
+          "disease": "ankylosing spondylitis",
+          "gene_size": 27,
+          "elapsed_s": 9541.7,
+          "z_score": 2.9287,
+          "p_value": 0.0036
+        },
+        {
+          "disease": "eosinophilic esophagitis",
+          "gene_size": 27,
+          "elapsed_s": 9507.0,
+          "z_score": -0.883,
+          "p_value": 0.3791
+        },
+        {
+          "disease": "spondyloarthropathy",
+          "gene_size": 27,
+          "elapsed_s": 9903.5,
+          "z_score": 2.877,
+          "p_value": 0.0041
+        },
+        {
+          "disease": "genetic generalized epilepsy",
+          "gene_size": 27,
+          "elapsed_s": 9453.2,
+          "z_score": 2.6327,
+          "p_value": 0.0068
+        },
+        {
+          "disease": "otosclerosis",
+          "gene_size": 26,
+          "elapsed_s": 9445.4,
+          "z_score": 2.2044,
+          "p_value": 0.0278
+        },
+        {
+          "disease": "malaria",
+          "gene_size": 26,
+          "elapsed_s": 9593.2,
+          "z_score": 2.6387,
+          "p_value": 0.0065
+        },
+        {
+          "disease": "nephrotic syndrome",
+          "gene_size": 26,
+          "elapsed_s": 9453.8,
+          "z_score": 4.4122,
+          "p_value": 0.0
+        },
+        {
+          "disease": "peripheral arterial disease",
+          "gene_size": 26,
+          "elapsed_s": 9696.3,
+          "z_score": 1.4877,
+          "p_value": 0.1376
+        },
+        {
+          "disease": "Achoo syndrome",
+          "gene_size": 26,
+          "elapsed_s": 9478.2,
+          "z_score": 3.1437,
+          "p_value": 0.0028
+        },
+        {
+          "disease": "spondyloepiphyseal dysplasia",
+          "gene_size": 26,
+          "elapsed_s": 9785.2,
+          "z_score": 5.9477,
+          "p_value": 0.0
+        },
+        {
+          "disease": "sarcoma",
+          "gene_size": 25,
+          "elapsed_s": 9449.5,
+          "z_score": 2.7325,
+          "p_value": 0.006
+        },
+        {
+          "disease": "membranous glomerulonephritis",
+          "gene_size": 25,
+          "elapsed_s": 9480.6,
+          "z_score": 2.7122,
+          "p_value": 0.0064
+        },
+        {
+          "disease": "urticaria",
+          "gene_size": 25,
+          "elapsed_s": 9720.2,
+          "z_score": 2.0351,
+          "p_value": 0.0357
+        },
+        {
+          "disease": "craniosynostosis",
+          "gene_size": 25,
+          "elapsed_s": 9618.9,
+          "z_score": 4.7447,
+          "p_value": 0.0
+        },
+        {
+          "disease": "polydactyly",
+          "gene_size": 25,
+          "elapsed_s": 9296.4,
+          "z_score": 4.9843,
+          "p_value": 0.0
+        },
+        {
+          "disease": "adrenocortical insufficiency",
+          "gene_size": 23,
+          "elapsed_s": 9427.0,
+          "z_score": 4.1487,
+          "p_value": 0.0
+        },
+        {
+          "disease": "pontocerebellar hypoplasia",
+          "gene_size": 24,
+          "elapsed_s": 9515.0,
+          "z_score": 6.733,
+          "p_value": 0.0
+        },
+        {
+          "disease": "pancreatitis",
+          "gene_size": 23,
+          "elapsed_s": 9410.6,
+          "z_score": 3.5711,
+          "p_value": 0.0011
+        },
+        {
+          "disease": "herpes zoster",
+          "gene_size": 23,
+          "elapsed_s": 9450.8,
+          "z_score": 4.2925,
+          "p_value": 0.0
+        },
+        {
+          "disease": "cholestasis",
+          "gene_size": 23,
+          "elapsed_s": 9783.9,
+          "z_score": 3.0795,
+          "p_value": 0.0018
+        },
+        {
+          "disease": "endometrial cancer",
+          "gene_size": 23,
+          "elapsed_s": 9463.6,
+          "z_score": 1.5386,
+          "p_value": 0.1226
+        },
+        {
+          "disease": "polycystic ovary syndrome",
+          "gene_size": 23,
+          "elapsed_s": 9509.1,
+          "z_score": 1.5068,
+          "p_value": 0.1305
+        },
+        {
+          "disease": "cone-rod dystrophy",
+          "gene_size": 23,
+          "elapsed_s": 9389.6,
+          "z_score": 8.0567,
+          "p_value": 0.0
+        },
+        {
+          "disease": "glioblastoma",
+          "gene_size": 23,
+          "elapsed_s": 9469.6,
+          "z_score": 0.8962,
+          "p_value": 0.3688
+        },
+        {
+          "disease": "dilated cardiomyopathy",
+          "gene_size": 22,
+          "elapsed_s": 9182.3,
+          "z_score": 2.8798,
+          "p_value": 0.0035
+        },
+        {
+          "disease": "microcephaly",
+          "gene_size": 22,
+          "elapsed_s": 9670.9,
+          "z_score": 5.435,
+          "p_value": 0.0
+        },
+        {
+          "disease": "mitral valve prolapse",
+          "gene_size": 22,
+          "elapsed_s": 9775.8,
+          "z_score": 2.3348,
+          "p_value": 0.0188
+        },
+        {
+          "disease": "motion sickness",
+          "gene_size": 22,
+          "elapsed_s": 9778.1,
+          "z_score": 2.3229,
+          "p_value": 0.0169
+        },
+        {
+          "disease": "Kawasaki disease",
+          "gene_size": 22,
+          "elapsed_s": 9722.1,
+          "z_score": 0.7547,
+          "p_value": 0.4555
+        },
+        {
+          "disease": "stutter disorder",
+          "gene_size": 21,
+          "elapsed_s": 9196.0,
+          "z_score": 3.3875,
+          "p_value": 0.0008
+        },
+        {
+          "disease": "urinary bladder cancer",
+          "gene_size": 21,
+          "elapsed_s": 9451.5,
+          "z_score": 1.494,
+          "p_value": 0.1345
+        },
+        {
+          "disease": "ovarian carcinoma",
+          "gene_size": 21,
+          "elapsed_s": 9436.2,
+          "z_score": 0.9769,
+          "p_value": 0.3237
+        },
+        {
+          "disease": "autism spectrum disorder",
+          "gene_size": 21,
+          "elapsed_s": 9343.9,
+          "z_score": 4.2165,
+          "p_value": 0.0001
+        },
+        {
+          "disease": "mastocytosis",
+          "gene_size": 21,
+          "elapsed_s": 9414.9,
+          "z_score": 0.7307,
+          "p_value": 0.4667
+        },
+        {
+          "disease": "carcinoma of esophagus",
+          "gene_size": 21,
+          "elapsed_s": 9476.2,
+          "z_score": 1.1738,
+          "p_value": 0.2472
+        },
+        {
+          "disease": "chronic primary adrenal insufficiency",
+          "gene_size": 21,
+          "elapsed_s": 9504.0,
+          "z_score": 3.1182,
+          "p_value": 0.0014
+        },
+        {
+          "disease": "Fanconi anemia",
+          "gene_size": 21,
+          "elapsed_s": 9399.1,
+          "z_score": 6.9818,
+          "p_value": 0.0
+        },
+        {
+          "disease": "idiopathic membranous glomerulonephritis",
+          "gene_size": 21,
+          "elapsed_s": 9835.1,
+          "z_score": 3.242,
+          "p_value": 0.0011
+        },
+        {
+          "disease": "childhood bladder carcinoma",
+          "gene_size": 21,
+          "elapsed_s": 9387.5,
+          "z_score": 1.4905,
+          "p_value": 0.1353
+        },
+        {
+          "disease": "spinal muscular atrophy",
+          "gene_size": 20,
+          "elapsed_s": 9135.4,
+          "z_score": 4.1065,
+          "p_value": 0.0002
+        },
+        {
+          "disease": "thyroid cancer",
+          "gene_size": 20,
+          "elapsed_s": 9398.6,
+          "z_score": 3.6429,
+          "p_value": 0.0002
+        },
+        {
+          "disease": "disorder of glycogen metabolism",
+          "gene_size": 20,
+          "elapsed_s": 9637.2,
+          "z_score": 4.6757,
+          "p_value": 0.0
+        },
+        {
+          "disease": "long QT syndrome",
+          "gene_size": 20,
+          "elapsed_s": 9605.5,
+          "z_score": 5.7859,
+          "p_value": 0.0
+        },
+        {
+          "disease": "dystonic disorder",
+          "gene_size": 20,
+          "elapsed_s": 9353.2,
+          "z_score": 1.803,
+          "p_value": 0.0714
+        },
+        {
+          "disease": "gestational diabetes",
+          "gene_size": 20,
+          "elapsed_s": 8872.5,
+          "z_score": -0.5872,
+          "p_value": 0.5648
+        },
+        {
+          "disease": "inborn mitochondrial myopathy",
+          "gene_size": 20,
+          "elapsed_s": 9003.7,
+          "z_score": 4.2802,
+          "p_value": 0.0001
+        },
+        {
+          "disease": "oligodendroglioma",
+          "gene_size": 20,
+          "elapsed_s": 9005.0,
+          "z_score": 2.3924,
+          "p_value": 0.0169
+        },
+        {
+          "disease": "sclerosing cholangitis",
+          "gene_size": 20,
+          "elapsed_s": 8946.1,
+          "z_score": 3.7981,
+          "p_value": 0.0001
+        },
+        {
+          "disease": "lissencephaly spectrum disorders",
+          "gene_size": 20,
+          "elapsed_s": 8943.1,
+          "z_score": 3.0491,
+          "p_value": 0.0032
+        },
+        {
+          "disease": "syndactyly",
+          "gene_size": 20,
+          "elapsed_s": 9008.2,
+          "z_score": 4.7067,
+          "p_value": 0.0
+        },
+        {
+          "disease": "Ehlers-Danlos syndrome",
+          "gene_size": 20,
+          "elapsed_s": 9042.7,
+          "z_score": 5.8572,
+          "p_value": 0.0
+        },
+        {
+          "disease": "mitochondrial complex IV deficiency, nuclear-type",
+          "gene_size": 20,
+          "elapsed_s": 9061.5,
+          "z_score": 7.4237,
+          "p_value": 0.0
+        },
+        {
+          "disease": "idiopathic inflammatory myopathy",
+          "gene_size": 20,
+          "elapsed_s": 9232.9,
+          "z_score": 1.917,
+          "p_value": 0.0532
+        }
+      ]
+    }
+  ]
+}

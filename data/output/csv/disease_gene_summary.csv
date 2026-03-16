@@ -1,0 +1,266 @@
+mondo_id,mondo_name,mondo_depth,n_genes_ppi,n_genes_direct,n_genes_propagated,passed_direct_filter,in_omim,in_gwas
+MONDO:0005560,brain disorder,4,2597,19,2578,True,True,False
+MONDO:0004992,cancer,5,2230,51,2179,True,True,True
+MONDO:0005015,diabetes mellitus,4,1664,51,1613,True,True,True
+MONDO:0005385,vascular disorder,3,1563,1,1562,True,True,False
+MONDO:0005148,type 2 diabetes mellitus,5,1526,1526,0,True,True,True
+MONDO:0000816,abdominal obesity-metabolic syndrome,3,1144,1142,2,True,True,True
+MONDO:0013600,insomnia,3,926,926,0,True,True,True
+MONDO:0007179,autoimmune disease,3,880,5,875,True,True,False
+MONDO:0005059,leukemia,5,801,37,764,True,True,False
+MONDO:0002406,dermatitis,3,752,49,703,True,True,True
+MONDO:0007263,cardiac rhythm disease,4,749,15,734,True,False,True
+MONDO:0004981,atrial fibrillation,5,714,713,1,True,True,True
+MONDO:0020076,myeloproliferative neoplasm,5,702,10,692,True,True,True
+MONDO:0004643,myeloid leukemia,6,689,3,686,True,True,False
+MONDO:0018874,acute myeloid leukemia,4,686,1,685,True,True,False
+MONDO:0850269,core binding factor acute myeloid leukemia,5,684,684,0,True,False,True
+MONDO:0005488,adolescent idiopathic scoliosis,4,652,652,0,True,False,True
+MONDO:0005392,scoliosis,6,652,1,651,True,True,True
+MONDO:0005090,schizophrenia,5,599,595,4,True,True,True
+MONDO:0005010,coronary artery disorder,4,510,510,0,True,True,True
+MONDO:0005578,arthritic joint disease,3,487,2,485,True,False,True
+MONDO:0005371,mood disorder,4,480,2,478,True,False,True
+MONDO:0008315,prostate cancer,5,478,475,3,True,True,True
+MONDO:0005265,inflammatory bowel disease,3,459,309,150,True,True,True
+MONDO:0004892,refractive error,4,444,427,17,True,False,True
+MONDO:0004979,asthma,5,439,412,27,True,True,True
+MONDO:0005240,kidney disorder,3,439,4,435,True,True,True
+MONDO:0005271,allergic disease,4,426,23,403,True,False,True
+MONDO:0005393,gout,3,384,384,0,True,True,True
+MONDO:0002050,depressive disorder,5,381,268,113,True,False,True
+MONDO:0005275,lung disorder,4,350,2,348,True,True,False
+MONDO:0004980,atopic eczema,4,347,347,0,True,False,True
+MONDO:0007254,breast cancer,4,343,333,10,True,True,True
+MONDO:0019056,neuromuscular disease,3,339,1,338,True,True,False
+MONDO:0700092,neurodevelopmental disorder,3,333,1,332,True,True,False
+MONDO:0018230,skeletal dysplasia,3,329,1,328,True,True,False
+MONDO:0005083,psoriasis,3,321,320,1,True,True,True
+MONDO:0005044,hypertensive disorder,5,318,295,23,True,True,True
+MONDO:0008383,rheumatoid arthritis,4,288,242,46,True,True,True
+MONDO:0004995,cardiovascular disorder,2,288,288,0,True,False,True
+MONDO:0001627,dementia,4,280,28,252,True,True,True
+MONDO:0005420,hypothyroidism,4,279,273,6,True,True,True
+MONDO:0007915,systemic lupus erythematosus,5,276,275,1,True,True,True
+MONDO:0005011,Crohn disease,4,259,259,0,True,False,True
+MONDO:0005575,colorectal cancer,5,258,249,9,True,True,True
+MONDO:0005301,multiple sclerosis,5,232,232,0,True,True,True
+MONDO:0002009,major depressive disorder,6,227,226,1,True,True,True
+MONDO:0005399,venous thromboembolism,4,212,212,0,True,True,True
+MONDO:0005062,lymphoma,5,205,16,189,True,True,True
+MONDO:0005252,heart failure,4,205,204,1,True,False,True
+MONDO:0005365,hearing loss disorder,4,202,179,23,True,True,True
+MONDO:0005178,osteoarthritis,4,201,201,0,True,False,True
+MONDO:0005244,peripheral neuropathy,4,201,23,178,True,True,False
+MONDO:0005068,myocardial infarction,5,200,200,0,True,True,True
+MONDO:0002269,gastroenteritis,3,190,3,187,True,False,True
+MONDO:0004970,adenocarcinoma,7,188,3,185,True,True,True
+MONDO:0004580,retinal degeneration,4,183,2,181,True,True,False
+MONDO:0005618,anxiety disorder,4,181,49,132,True,False,True
+MONDO:0005101,ulcerative colitis,5,181,181,0,True,False,True
+MONDO:0005027,epilepsy,5,178,69,109,True,True,True
+MONDO:0005391,restless legs syndrome,3,177,177,0,True,False,True
+MONDO:0019118,inherited retinal dystrophy,4,172,5,167,True,True,False
+MONDO:0020804,basal cell carcinoma,7,169,169,0,True,True,True
+MONDO:0011057,cerebrovascular disorder,4,169,37,132,True,True,True
+MONDO:0004975,Alzheimer disease,5,168,166,2,True,True,True
+MONDO:0008903,lung cancer,4,160,101,59,True,True,True
+MONDO:0005180,Parkinson disease,4,160,158,2,True,True,True
+MONDO:0005147,type 1 diabetes mellitus,4,154,154,0,True,True,True
+MONDO:0005277,migraine disorder,4,152,150,2,True,True,True
+MONDO:0005336,myopathy,5,149,38,111,True,True,False
+MONDO:0004994,cardiomyopathy,4,145,50,95,True,True,True
+MONDO:0005160,aortic aneurysm,6,143,12,131,True,True,True
+MONDO:0001071,intellectual disability,4,141,86,55,True,True,False
+MONDO:0005002,chronic obstructive pulmonary disease,5,141,129,12,True,False,True
+MONDO:0005350,abdominal aortic aneurysm,7,134,134,0,True,False,True
+MONDO:0005516,osteochondrodysplasia,4,131,2,129,True,True,False
+MONDO:0002898,skin cancer,4,130,73,57,True,False,True
+MONDO:0004784,allergic asthma,4,130,130,0,True,False,True
+MONDO:0021094,immunodeficiency disease,3,128,16,112,True,True,False
+MONDO:0002525,inherited lipid metabolism disorder,4,121,27,94,True,False,True
+MONDO:0005623,autoimmune thyroid disease,4,116,80,36,True,True,True
+MONDO:0005146,post-traumatic stress disorder,6,115,115,0,True,False,True
+MONDO:0100308,atactic disorder,3,114,6,108,True,True,False
+MONDO:0002367,kidney cancer,5,112,74,38,True,False,True
+MONDO:0004985,bipolar disorder,5,111,89,22,True,False,True
+MONDO:0005041,glaucoma,4,108,105,3,True,True,True
+MONDO:0002280,anemia,3,108,11,97,True,True,False
+MONDO:0002146,hypogonadism,4,107,54,53,True,False,True
+MONDO:0004938,substance dependence,4,104,2,102,True,False,True
+MONDO:0008638,varicose disease,5,104,102,2,True,False,True
+MONDO:0002656,skin carcinoma,5,101,87,14,True,False,True
+MONDO:0018908,non-Hodgkin lymphoma,6,101,11,90,True,False,True
+MONDO:0005155,cirrhosis of liver,4,98,14,84,True,True,True
+MONDO:0005096,squamous cell carcinoma,7,97,25,72,True,True,True
+MONDO:0000437,cerebellar ataxia,4,95,6,89,True,True,False
+MONDO:0042981,aortic valve stenosis,3,93,92,1,True,False,True
+MONDO:0015759,B-cell non-Hodgkin lymphoma,5,91,1,90,True,True,False
+MONDO:0019751,autoinflammatory syndrome,3,89,2,87,True,True,False
+MONDO:0008575,nicotine dependence,6,87,87,0,True,True,True
+MONDO:0005206,renal carcinoma,6,86,1,85,True,True,False
+MONDO:0005086,renal cell carcinoma,7,85,28,57,True,True,True
+MONDO:0005388,primary biliary cholangitis,4,84,84,0,True,False,True
+MONDO:0018882,vasculitis,3,82,1,81,True,True,False
+MONDO:0019200,retinitis pigmentosa,5,82,9,73,True,True,True
+MONDO:0005402,lymphoid leukemia,6,80,6,74,True,True,True
+MONDO:0001384,myopia,3,78,76,2,True,True,True
+MONDO:0005276,dental caries,5,78,78,0,True,False,True
+MONDO:0005045,hypertrophic cardiomyopathy,6,78,45,33,True,False,True
+MONDO:0005342,IgA glomerulonephritis,5,76,76,0,True,True,True
+MONDO:0008373,retinal arterial tortuosity,5,74,74,0,True,False,True
+MONDO:0015286,congenital disorder of glycosylation,4,74,46,28,True,True,False
+MONDO:0005300,chronic kidney disease,4,73,62,11,True,False,True
+MONDO:0019046,leukodystrophy,5,72,23,49,True,True,False
+MONDO:0020592,disorder of pharynx,3,70,21,49,True,False,True
+MONDO:0012672,cholelithiasis,5,69,69,0,True,False,True
+MONDO:0008661,vitiligo,4,69,69,0,True,False,True
+MONDO:0004425,hyperthyroidism,4,68,31,37,True,True,True
+MONDO:0004952,Hodgkins lymphoma,6,64,59,5,True,True,True
+MONDO:0019019,osteogenesis imperfecta,5,63,18,45,True,True,False
+MONDO:0005233,non-small cell lung carcinoma,6,63,14,49,True,False,True
+MONDO:0005249,pneumonia,4,63,23,40,True,False,True
+MONDO:0011786,allergic rhinitis,4,62,62,0,True,True,True
+MONDO:0007275,carpal tunnel syndrome,6,62,61,1,True,True,True
+MONDO:0004948,B-cell chronic lymphocytic leukemia,5,62,62,0,True,False,True
+MONDO:0020380,autosomal dominant cerebellar ataxia,4,60,29,31,True,True,False
+MONDO:0005061,lung adenocarcinoma,7,59,59,0,True,True,True
+MONDO:0005105,melanoma,5,59,56,3,True,True,True
+MONDO:0005130,celiac disease,3,59,59,0,True,True,True
+MONDO:0005372,male infertility,4,59,2,57,True,False,True
+MONDO:0043765,presbycusis,6,58,58,0,True,False,True
+MONDO:0003004,macular degeneration,5,57,23,34,True,True,True
+MONDO:0019512,congenital heart malformation,4,57,1,56,True,False,True
+MONDO:0004983,spermatogenic failure,3,56,5,51,True,True,False
+MONDO:0004976,amyotrophic lateral sclerosis,5,56,33,23,True,True,True
+MONDO:0021348,neoplasm of testis,5,55,1,54,True,True,False
+MONDO:0007763,nonpapillary renal cell carcinoma,8,55,55,0,True,False,True
+MONDO:0002715,uterine cancer,6,54,2,52,True,False,True
+MONDO:0015626,Charcot-Marie-Tooth disease,6,54,51,3,True,True,False
+MONDO:0007186,gastroesophageal reflux disease,3,54,54,0,True,True,True
+MONDO:0015925,interstitial lung disease,5,53,17,36,True,True,True
+MONDO:1060198,ischemic stroke,6,53,52,1,True,True,True
+MONDO:0021042,glioma,5,53,12,41,True,True,True
+MONDO:0011122,obesity disorder,4,53,52,1,True,True,True
+MONDO:0010108,testicular germ cell tumor,6,53,52,1,True,True,True
+MONDO:0016064,cleft palate,4,52,8,44,True,True,True
+MONDO:0024647,urolithiasis,3,52,44,8,True,False,True
+MONDO:0005397,goiter,4,52,8,44,True,True,True
+MONDO:0015909,aplastic anemia,4,51,6,45,True,True,True
+MONDO:0007743,attention deficit-hyperactivity disorder,6,51,51,0,True,True,True
+MONDO:0011438,acne,4,50,50,0,True,False,True
+MONDO:0019338,sarcoidosis,4,48,47,1,True,True,True
+MONDO:0001866,bipolar I disorder,6,48,48,0,True,False,True
+MONDO:0019287,ectodermal dysplasia syndrome,3,48,1,47,True,True,False
+MONDO:0005100,systemic sclerosis,4,47,46,1,True,False,True
+MONDO:0011918,anxiety,4,46,46,0,True,True,True
+MONDO:0005097,squamous cell lung carcinoma,6,46,46,0,True,False,True
+MONDO:0005133,endometriosis,6,45,45,0,True,True,True
+MONDO:0005291,brain aneurysm,7,45,45,0,True,False,True
+MONDO:0005294,peripheral vascular disease,4,45,19,26,True,False,True
+MONDO:0005364,Graves disease,5,44,44,0,True,True,True
+MONDO:0015131,combined immunodeficiency,4,44,1,43,True,True,False
+MONDO:0004247,peptic ulcer disease,3,44,27,17,True,False,True
+MONDO:0009831,malignant pancreatic neoplasm,4,43,37,6,True,True,True
+MONDO:0002243,hemorrhagic disease,3,42,11,31,True,True,False
+MONDO:0007336,isolated cleft palate,5,42,42,0,True,False,True
+MONDO:0016820,Moyamoya disease,4,41,39,2,True,True,True
+MONDO:0020121,muscular dystrophy,4,41,27,14,True,True,False
+MONDO:0001056,gastric cancer,4,40,38,2,True,True,True
+MONDO:0005489,dyslexia,8,40,40,0,True,True,True
+MONDO:0009693,plasma cell myeloma,4,40,40,0,True,True,True
+MONDO:0005150,age-related macular degeneration,5,40,33,7,True,False,True
+MONDO:0005453,congenital heart disease,4,38,12,26,True,True,True
+MONDO:0017991,Takayasu arteritis,3,38,38,0,True,False,True
+MONDO:0100133,mitochondrial complex I deficiency,6,37,37,0,True,True,False
+MONDO:0002245,blood platelet disease,3,37,1,36,True,True,False
+MONDO:0007576,esophageal cancer,4,37,20,17,True,True,True
+MONDO:0800504,idiopathic pulmonary fibrosis,4,36,36,0,True,False,True
+MONDO:0002046,alcohol abuse,5,36,36,0,True,False,True
+MONDO:0100471,vitamin D deficiency,5,36,36,0,True,False,True
+MONDO:0005298,osteoporosis,6,36,36,0,True,True,True
+MONDO:0004907,alopecia,5,35,1,34,True,True,False
+MONDO:0021129,microphthalmia,5,34,19,15,True,True,False
+MONDO:0018076,tuberculosis,5,34,33,1,True,True,True
+MONDO:0005124,leprosy,5,33,33,0,True,True,True
+MONDO:0011849,psoriatic arthritis,3,33,33,0,True,True,True
+MONDO:0006566,keratosis,4,33,3,30,True,True,False
+MONDO:0021392,polyp of large intestine,4,33,1,32,True,False,True
+MONDO:0021400,polyp of colon,5,32,32,0,True,False,True
+MONDO:0005296,sleep apnea syndrome,3,32,7,25,True,False,True
+MONDO:0015486,keratoconus,3,32,30,2,True,False,True
+MONDO:0005405,childhood onset asthma,6,32,32,0,True,False,True
+MONDO:0002251,hepatitis,3,31,17,14,True,True,True
+MONDO:0002529,skin squamous cell carcinoma,6,31,31,0,True,False,True
+MONDO:0002974,cervical cancer,7,31,31,0,True,True,True
+MONDO:0005315,bone fracture,12,31,26,5,True,False,True
+MONDO:0018531,carcinoma of liver and intrahepatic biliary tract,5,31,6,25,True,False,True
+MONDO:0019064,hereditary spastic paraplegia,5,31,2,29,True,True,False
+MONDO:0100574,generalized epilepsy,6,31,13,18,True,False,True
+MONDO:0015974,severe combined immunodeficiency,5,30,7,23,True,True,False
+MONDO:0006590,palmoplantar keratosis,5,30,7,23,True,True,False
+MONDO:0019269,ichthyosis,5,30,20,10,True,True,False
+MONDO:0008170,ovarian cancer,6,30,17,13,True,True,True
+MONDO:0008171,nephrolithiasis,4,30,30,0,True,True,True
+MONDO:0004790,fatty liver disease,4,29,2,27,True,True,True
+MONDO:0005412,duodenal ulcer,4,29,29,0,True,False,True
+MONDO:0007256,hepatocellular carcinoma,6,29,27,2,True,True,True
+MONDO:0007147,obstructive sleep apnea syndrome,3,28,28,0,True,False,True
+MONDO:0013209,metabolic dysfunction-associated steatotic liver disease,5,28,26,2,True,False,True
+MONDO:0003664,hemolytic anemia,5,28,4,24,True,True,False
+MONDO:0015263,Brugada syndrome,3,28,20,8,True,False,True
+MONDO:0005095,spondyloarthropathy,3,27,1,26,True,True,False
+MONDO:0005306,ankylosing spondylitis,4,27,27,0,True,False,True
+MONDO:0100575,genetic generalized epilepsy,7,27,22,5,True,False,True
+MONDO:0002049,thrombocytopenia,4,27,7,20,True,True,False
+MONDO:0000082,pelvic organ prolapse,3,27,27,0,True,True,True
+MONDO:0005361,eosinophilic esophagitis,4,27,27,0,True,False,True
+MONDO:0016761,spondyloepiphyseal dysplasia,5,26,4,22,True,True,False
+MONDO:0005377,nephrotic syndrome,3,26,26,0,True,True,True
+MONDO:0005386,peripheral arterial disease,5,26,26,0,True,False,True
+MONDO:0007038,Achoo syndrome,3,26,26,0,True,False,True
+MONDO:0005136,malaria,4,26,26,0,True,True,True
+MONDO:0005349,otosclerosis,4,26,26,0,True,False,True
+MONDO:0021003,polydactyly,3,25,7,18,True,True,False
+MONDO:0005492,urticaria,4,25,5,20,True,False,True
+MONDO:0015469,craniosynostosis,3,25,1,24,True,True,False
+MONDO:0005089,sarcoma,6,25,3,22,True,True,False
+MONDO:0005376,membranous glomerulonephritis,5,25,6,19,True,True,True
+MONDO:0020135,pontocerebellar hypoplasia,4,24,19,5,True,True,False
+MONDO:0018177,glioblastoma,8,23,23,0,True,True,True
+MONDO:0015993,cone-rod dystrophy,5,23,3,20,True,True,False
+MONDO:0001751,cholestasis,6,23,6,17,True,True,False
+MONDO:0005609,herpes zoster,4,23,23,0,True,False,True
+MONDO:0000004,adrenocortical insufficiency,5,23,2,21,True,True,False
+MONDO:0008487,polycystic ovary syndrome,3,23,23,0,True,True,True
+MONDO:0004982,pancreatitis,3,23,6,17,True,True,True
+MONDO:0011962,endometrial cancer,7,23,20,3,True,True,True
+MONDO:0012727,Kawasaki disease,4,22,22,0,True,False,True
+MONDO:0001149,microcephaly,3,22,16,6,True,True,False
+MONDO:0008015,motion sickness,4,22,22,0,True,False,True
+MONDO:0004910,mitral valve prolapse,6,22,20,2,True,True,True
+MONDO:0005021,dilated cardiomyopathy,6,22,12,10,True,False,True
+MONDO:0005258,autism spectrum disorder,6,21,8,13,True,False,True
+MONDO:0022578,childhood bladder carcinoma,7,21,21,0,True,True,True
+MONDO:0019391,Fanconi anemia,4,21,21,0,True,True,False
+MONDO:0001187,urinary bladder cancer,5,21,1,20,True,False,True
+MONDO:0019086,carcinoma of esophagus,5,21,2,19,True,True,False
+MONDO:0005140,ovarian carcinoma,8,21,20,1,True,False,True
+MONDO:0007950,mastocytosis,4,21,14,7,True,True,True
+MONDO:0013860,idiopathic membranous glomerulonephritis,3,21,21,0,True,False,True
+MONDO:0000723,stutter disorder,4,21,21,0,True,True,True
+MONDO:0015129,chronic primary adrenal insufficiency,7,21,1,20,True,True,False
+MONDO:0033885,"mitochondrial complex IV deficiency, nuclear-type",6,20,20,0,True,True,False
+MONDO:0005406,gestational diabetes,4,20,20,0,True,False,True
+MONDO:0001516,spinal muscular atrophy,6,20,11,9,True,True,False
+MONDO:0002108,thyroid cancer,5,20,15,5,True,True,True
+MONDO:0002412,disorder of glycogen metabolism,5,20,1,19,True,True,False
+MONDO:0002442,long QT syndrome,3,20,5,15,True,True,True
+MONDO:0020066,Ehlers-Danlos syndrome,3,20,17,3,True,True,False
+MONDO:0021002,syndactyly,3,20,4,16,True,True,False
+MONDO:0009637,inborn mitochondrial myopathy,4,20,1,19,True,True,False
+MONDO:0003441,dystonic disorder,5,20,4,16,True,True,False
+MONDO:0018646,sclerosing cholangitis,4,20,1,19,True,True,False
+MONDO:0016695,oligodendroglioma,8,20,20,0,True,False,True
+MONDO:0600023,idiopathic inflammatory myopathy,4,20,4,16,True,False,True
+MONDO:0018838,lissencephaly spectrum disorders,3,20,3,17,True,True,False
